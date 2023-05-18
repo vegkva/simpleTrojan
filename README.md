@@ -1,6 +1,6 @@
 # Trojan disguised as Windows calculator
 
-A simple trojan written in Python that disguises as the standard Windows calculator. 
+A simple trojan written in Python disguised as the standard Windows calculator. 
 There is currently no focus on obfuscating and AD evasion
 
 
